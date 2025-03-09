@@ -1,10 +1,10 @@
-[06:10:21] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
-[06:10:21] [main/WARN]: Mod resolution failed
-[06:10:21] [main/INFO]: Immediate reason: [HARD_DEP_NO_CANDIDATE treeharvester 9.1 {depends collective @ [>=7.91]}, ROOT_FORCELOAD_SINGLE treeharvester 9.1]
-[06:10:21] [main/INFO]: Reason: [HARD_DEP treeharvester 9.1 {depends collective @ [>=7.91]}]
-[06:10:21] [main/INFO]: SERVER environment disabled: [fabric-renderer-api-v1, entity_model_features, logical_zoom, fabric-keybindings-v0, entity_texture_features, morechathistory, modmenu, fabrishot, sodium-extra, fabric-screen-api-v1, fabric-renderer-indigo, fadeless, reeses-sodium-options, modelfix, citresewn, isxander-main-menu-credits, fabric-rendering-v0, fabric-sound-api-v1, fabric-key-binding-api-v1, fabric-rendering-v1, fabric-model-loading-api-v1, capes, entityculling, lambdynlights, fastquit, iris, optigui, bettermounthud, moreculling, animatica, continuity, immediatelyfast, indium, fabric-client-tags-api-v1, advancementinfo, enhancedblockentities, fabric-blockrenderlayer-v1, dynamic_fps, sodium, borderlessmining, betterf3, fabric-renderer-registries-v1, rrls, fabricskyboxes, puzzle, languagereload, fabric-models-v0, zoomify, fsb-interop]
-[06:10:21] [main/INFO]: Fix: add [add:collective 7.91 ([[7.91,∞)])], remove [], replace []
-[06:10:21] [main/ERROR]: Incompatible mods found!
+[06:12:59] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[06:12:59] [main/WARN]: Mod resolution failed
+[06:12:59] [main/INFO]: Immediate reason: [HARD_DEP_NO_CANDIDATE treeharvester 9.1 {depends collective @ [>=7.91]}, ROOT_FORCELOAD_SINGLE treeharvester 9.1]
+[06:12:59] [main/INFO]: Reason: [HARD_DEP treeharvester 9.1 {depends collective @ [>=7.91]}]
+[06:12:59] [main/INFO]: SERVER environment disabled: [fabric-renderer-api-v1, entity_model_features, logical_zoom, fabric-keybindings-v0, entity_texture_features, morechathistory, modmenu, fabrishot, sodium-extra, fabric-screen-api-v1, fabric-renderer-indigo, fadeless, reeses-sodium-options, modelfix, citresewn, isxander-main-menu-credits, fabric-sound-api-v1, fabric-rendering-v0, fabric-key-binding-api-v1, fabric-rendering-v1, fabric-model-loading-api-v1, capes, entityculling, lambdynlights, fastquit, iris, optigui, bettermounthud, moreculling, animatica, continuity, immediatelyfast, indium, fabric-client-tags-api-v1, advancementinfo, enhancedblockentities, fabric-blockrenderlayer-v1, dynamic_fps, sodium, borderlessmining, betterf3, fabric-renderer-registries-v1, rrls, fabricskyboxes, puzzle, languagereload, fabric-models-v0, zoomify, fsb-interop]
+[06:12:59] [main/INFO]: Fix: add [add:collective 7.91 ([[7.91,∞)])], remove [], replace []
+[06:12:59] [main/ERROR]: Incompatible mods found!
 net.fabricmc.loader.impl.FormattedException: Some of your mods are incompatible with the game or each other!
 A potential solution has been determined, this may resolve your problem:
 	 - Install collective, version 7.91 or later.
