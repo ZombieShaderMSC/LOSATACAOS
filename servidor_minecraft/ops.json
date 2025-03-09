@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "96b5fdf9-610a-33d0-8572-354f02c3c5e8",
+    "name": "ZombieShaderMSC",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
